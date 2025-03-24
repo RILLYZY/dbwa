@@ -9,6 +9,11 @@
       "username": "user3",
       "password": "pass789",
       "nomor": "6282223334445"
+    },
+    {
+      "username": "user6",
+      "password": "pwaja",
+      "nomor": "63874849485"
     }
   ]
 }
