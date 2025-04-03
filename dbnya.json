@@ -104,6 +104,11 @@
       "username": "rzen",
       "password": "RzenBug",
       "nomor": "6288279308855"
+    },
+    {
+      "username": "testing",
+      "password": "test",
+      "nomor": "6288288"
     }
   ]
 }
