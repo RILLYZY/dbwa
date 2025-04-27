@@ -214,6 +214,11 @@
       "username": "pii",
       "password": "rikontol",
       "nomor": "62882015104165"
+    },
+    {
+      "username": "pan",
+      "password": "pan",
+      "nomor": "6282191618641"
     }
   ]
 }
